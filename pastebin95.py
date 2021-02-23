@@ -16,6 +16,7 @@ from requests import ConnectionError
 
 '''
 
+### UDAH OPENSOURCE JANGAN DI REKOD BABY ###
 
 os.system('clear')
 
