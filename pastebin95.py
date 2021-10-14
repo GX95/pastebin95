@@ -22,7 +22,7 @@ os.system('clear')
 
 ### Ie Dev_key na pake akun temp-mail ehehe:' ###
 ### jadi lamun dah limit bikin akun lagi oghe ###
-### pake temp-mail:v                          ###
+### kalau nggak nyalain mode pesawat dulu     ###
 devKey = '8QR3_43BbKYWfYmYcECz7PB6_h85OaSW'
 
 ### Nulis ###
